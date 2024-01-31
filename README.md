@@ -19,6 +19,16 @@ A new Flutter project.
     flutter run
     ```
 
+2. setting Up Server Configruations:
+    ```
+        for the api dotnet run --url=http:localnetworkip:port
+    ```
+3. setting Up Server Configruations on the source code:
+    ```
+        - setup hotelreservation\lib\api 
+        - setp hotelreservation\lib\home\api 
+    ```
+
 ## ScreenShots
 ```
 ScreenShots
