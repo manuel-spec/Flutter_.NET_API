@@ -4,6 +4,17 @@ A new Flutter project.
 
 ## Getting Started
 
+1. Clone the repository:
+
+   ```
+   git clone https://github.com/your-username/your-flutter-app.git
+   ```
+    cd your-flutter-app
+    ```
+    flutter pub get
+    ```
+    flutter run
+    ```
 
 ## ScreenShots
 ```
