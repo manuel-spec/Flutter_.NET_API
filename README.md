@@ -26,7 +26,7 @@ A new Flutter project.
 3. setting Up Server Configruations on the source code:
     ```
         - setup hotelreservation\lib\api 
-        - setp hotelreservation\lib\home\api 
+        - setup hotelreservation\lib\home\api 
     ```
 
 ## ScreenShots
